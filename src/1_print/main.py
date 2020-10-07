@@ -1,8 +1,8 @@
 # 文字列のプリント
-print('test')  # test
+print("test")  # test
 
 # 変数を使う
-test = 'abc'
+test = "abc"
 print(test)  # abc
 
 # 数値のプリント
